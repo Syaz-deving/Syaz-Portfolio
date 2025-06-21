@@ -24,6 +24,21 @@ So if you have a project in mind, **let me help bring it to life while I learn a
 - 📦 **Learning Blender – Modeling, Texturing, Rendering**
 - 🚧 **Always open to collaboration and challenges**
 
+## 🖼️ Project Pictures
+
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Bild_2025-06-21_183428159.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20181231.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20181701.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20182025.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20182139.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20182212.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20182339.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183123.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183246.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183308.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183325.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183344.png)
+- ![Alt Text](https://raw.githubusercontent.com/Syaz-deving/Syaz-Portfolio/c1a351c2e4d975b2774f9c2cb23e3a94f000068b/Screenshot%202025-06-21%20183416.png)
 
 
 ## 📫 Contact Me
